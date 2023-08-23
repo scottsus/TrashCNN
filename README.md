@@ -6,4 +6,4 @@
 
 📦 The classifier, which consists of different CNN models, will take an image input containing a single piece of waste on a white background (or any solid color background). The model should then classify the object into one of six possible waste categories mentioned prior.
 
-If you're interested in learning about our research findings, please do take a look at the PDF in this repo. Thanks for checking in 👋
+If you're interested in learning about our [research findings](https://github.com/scottsus/TrashCNN/blob/main/Final_Report.pdf), please do take a look at the PDF in this repo. Thanks for checking in 👋
